@@ -9,9 +9,8 @@
 [![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/context-labs/openclaw)
 
+## Current Projects
 ---
-
-##I'm currently working on
 [**FocusHue**](https://github.com/Blueflier/FocusHue).
 
 <!--
