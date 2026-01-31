@@ -10,8 +10,7 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/context-labs/openclaw)
 
 ## Current Projects
----
-[**FocusHue**](https://github.com/Blueflier/FocusHue).
+[**FocusHue**](https://github.com/Blueflier/FocusHue) — automatic greyscale enabler on certain tabs.
 
 <!--
 **Blueflier/Blueflier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
