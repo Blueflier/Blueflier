@@ -1,8 +1,8 @@
 # Hi, I'm Joseph 👋
 
-### 📍 San Francisco | 🤖 Polyagentmorous builder | 🏛️ AI Lab Program Manager
+### 📍 San Francisco | 🤖 Polyagentmorous builder | 🏛️ Data Insights to Business Decisions
 
-> Deep in vibe-coding mode — building AI-powered developer tools at ludicrous speed. Currently working on [**FocusHue**](https://github.com/Blueflier/FocusHue).
+> Deep in vibe-coding mode — building technology that helps people be more human
 
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
