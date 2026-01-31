@@ -7,7 +7,7 @@
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
-[![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/context-labs/openclaw)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/openclaw/openclaw)
 
 ## Current Projects
 [**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect.
