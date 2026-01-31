@@ -10,7 +10,7 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/openclaw/openclaw)
 
 ## Current Projects
-[**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect.
+🔎 [**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect.
 
 <!--
 **Blueflier/Blueflier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
