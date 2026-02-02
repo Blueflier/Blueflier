@@ -12,7 +12,8 @@
 [![TRL](https://img.shields.io/badge/TRL-FF821E?style=flat-square)](https://github.com/huggingface/trl)
 
 ## Current Projects
-🔎 [**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect.
+🔎 [**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect
+
 💧 [**Brew Tap**](https://github.com/Blueflier/homebrew-tap) — :)
 
 <!--
