@@ -8,9 +8,12 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-blue?style=flat-square)](https://github.com/openclaw/openclaw)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![TRL](https://img.shields.io/badge/TRL-FF821E?style=flat-square)](https://github.com/huggingface/trl)
 
 ## Current Projects
 🔎 [**FocusHue**](https://github.com/Blueflier/FocusHue) — turns on greyscale for you on tabs you get distracted by like X, Youtube, ect.
+💧 [**Brew Tap**](https://github.com/Blueflier/homebrew-tap) — :)
 
 <!--
 **Blueflier/Blueflier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
