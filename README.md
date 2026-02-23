@@ -2,9 +2,7 @@
 
 **San Francisco** · Creative · Ideas Guy
 
-> Deep in vibe-coding mode — building technology that helps people be more human
-
----
+> building technology that helps people be more human
 
 ## Stack
 
@@ -33,11 +31,7 @@
 
 💧 [**Brew Tap**](https://github.com/Blueflier/homebrew-tap) — :)
 
----
-
 ## Ideas I Don't Have Tokens For
-
----
 
 ## Past Ventures
 
@@ -46,8 +40,6 @@
 [**Eventure**](https://www.biola.edu/blogs/biola-news/2025/biola-startup-competition-awards-15-000-grand-prize-to-student-created-mediscan-app) — Event discovery for clubs
 
 [**Eat Up!**](https://www.biola.edu/blogs/biola-news/2023/cityvend-wins-2023-biola-startup-competition1) — Creative merch designers for Twitch streamers
-
----
 
 ## Media
 
