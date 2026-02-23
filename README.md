@@ -63,11 +63,11 @@ Generalist · Creative · Ideas Guy · Full Stack
 
 ## Past Ventures
 
-[**AI Lab at Biola University**](https://www.biola.edu/ai-lab) — How do we educate non-technical people on the ethics of AI?
+[**AI Lab at Biola University**](https://www.biola.edu/ai-lab) — Pursuing AI from a human flourishing angle
 
-[**Eventure**](https://www.biola.edu/blogs/biola-news/2025/biola-startup-competition-awards-15-000-grand-prize-to-student-created-mediscan-app) — Event discovery for clubs
+[**Eventure**](https://www.biola.edu/blogs/biola-news/2025/biola-startup-competition-awards-15-000-grand-prize-to-student-created-mediscan-app) — Event discovery for clubs using semantic pairing
 
-[**Eat Up!**](https://www.biola.edu/blogs/biola-news/2023/cityvend-wins-2023-biola-startup-competition1) — Creative merch designers for Twitch streamers
+[**Eat Up!**](https://www.biola.edu/blogs/biola-news/2023/cityvend-wins-2023-biola-startup-competition1) — Creative merch design agency for Twitch streamers
 
 ## Media
 
