@@ -38,6 +38,8 @@
 
 ## Ideas I Don't Have Tokens For
 
+🎙️ [**Rowgan AI**](https://rowganai.vercel.app/) — Record high quality podcasts from your phone
+
 ## Past Ventures
 
 [**AI Lab at Biola University**](https://www.biola.edu/ai-lab) — How do we educate non-technical people on the ethics of AI?
