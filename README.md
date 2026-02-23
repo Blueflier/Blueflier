@@ -39,6 +39,7 @@
 ## Ideas I Don't Have Tokens For
 
 🎙️ [**Rowgan AI**](https://rowganai.vercel.app/) — Record high quality podcasts from your phone
+📲 [**PingPing**](https://pingping-iota.vercel.app/) — Stop Scrolling. Start Calling.
 
 ## Past Ventures
 
