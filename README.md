@@ -4,6 +4,11 @@
 
 > building technology that helps people be more human
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephhartono/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://josephhartono.com/)
+
 ## Stack
 
 **Frontend**
