@@ -1,6 +1,6 @@
 # Hi, I'm Joseph 👋
 
-**San Francisco** · Creative · Ideas Guy · Full Stack
+Generalist · Creative · Ideas Guy · Full Stack
 
 > building technology that helps people be more human
 
