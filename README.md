@@ -39,7 +39,18 @@
 ## Ideas I Don't Have Tokens For
 
 🎙️ [**Rowgan AI**](https://rowganai.vercel.app/) — Record high quality podcasts from your phone
+
 📲 [**PingPing**](https://pingping-iota.vercel.app/) — Stop Scrolling. Start Calling.
+
+⏰ **Uh Oh Alarm** — An alarm that only turns off when you make a certain facial expression and your heart rate is high enough
+
+🧈 **Butter Connect** — Seemless transitions between hackathon presentations
+
+❤️ **Leafy AI** — A rememberance app to help hoarders let go of belongings
+
+⌨ **Keyboard Saiyan** — An on prem local model that helps users with tremors type accurately
+
+💰 **Helping Handds** — Gamified volunteer discovery app with your friends
 
 ## Past Ventures
 
