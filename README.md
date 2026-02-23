@@ -1,6 +1,6 @@
 # Hi, I'm Joseph 👋
 
-**San Francisco** · Creative · Ideas Guy
+**San Francisco** · Creative · Ideas Guy · Full Stack
 
 > building technology that helps people be more human
 
@@ -20,6 +20,11 @@
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
+**DevOps**
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![OpenLens](https://img.shields.io/badge/OpenLens-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/MuhammedKalkan/OpenLens)
 
 ## Current Projects
 
