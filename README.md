@@ -59,6 +59,8 @@
 
 💰 **Helping Handds** — Gamified volunteer discovery app with your friends
 
+⛑️ **Plate Up** — Meta glasses app that calculates how much you need to excercise to lower blood sugar based on how much you ate
+
 ## Past Ventures
 
 [**AI Lab at Biola University**](https://www.biola.edu/ai-lab) — How do we educate non-technical people on the ethics of AI?
