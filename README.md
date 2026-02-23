@@ -24,7 +24,7 @@
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![OpenLens](https://img.shields.io/badge/OpenLens-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/MuhammedKalkan/OpenLens)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh)
 
 ## Current Projects
 
