@@ -59,7 +59,7 @@ Generalist · Creative · Ideas Guy · Full Stack
 
 💰 **Helping Handds** — Gamified volunteer discovery app with your friends
 
-⛑️ **Plate Up** — Meta glasses app that calculates how much you need to excercise to lower blood sugar based on how much you ate
+⛑️ **Plate Up** — Meta glasses app that calculates how much you need to excercise to lower blood sugar based on how much you ate for people with diabetes
 
 ## Past Ventures
 
@@ -69,7 +69,9 @@ Generalist · Creative · Ideas Guy · Full Stack
 
 [**Eat Up!**](https://www.biola.edu/blogs/biola-news/2023/cityvend-wins-2023-biola-startup-competition1) — Creative merch design agency for Twitch streamers
 
-## Media
+## Media + Publications
+
+[**IACE**](https://iace.education/journal-blog/human-formation-in-an-artificial-world) — Human Formation in an Artificial World
 
 [**CCCA Conference**](https://www.linkedin.com/feed/update/urn:li:activity:7405359080879493120/) — Helping summer camps innovate with AI
 
