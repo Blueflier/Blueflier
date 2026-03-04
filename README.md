@@ -33,6 +33,8 @@ Generalist · Creative · Ideas Guy · Full Stack
 
 🫂 [**ppl**](https://ppl-woad.vercel.app/) — an AI that connects you to other people
 
+📊 [**graph gallery**](https://graphs-ten-steel.vercel.app) — a visual guide for vibe coding data scientists
+
 💧 [**Brew Tap**](https://github.com/Blueflier/homebrew-tap) — :)
 
 ## Ideas I Don't Have Tokens For
